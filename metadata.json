@@ -1,0 +1,6 @@
+{
+  "name": "Novel Pharmacy & Stores",
+  "description": "Novel Pharmacy & Stores — genuine medicines, groceries, cosmetics, electronics and more, delivered across Abuja or ready for pickup. Shop trusted essentials online today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
